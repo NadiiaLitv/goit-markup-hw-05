@@ -460,8 +460,6 @@ body {
 .footer-main-container {
   display: flex;
   align-items: baseline;
-  justify-content: baseline;
-  margin-left: 156px;
 }
 
 .social-media-text {
